@@ -17,11 +17,11 @@ Includes:<br>
 Includes:<br>
 **Vacation_Search.ipynb** - code to take user input when selecting the preferred weather for vacation.  Based on their selection, they can pull up potential travel destinations.<br>
 **WeatherPy_vacation.csv** - data complied and converted to a CSV file.<br>
-**WeatherPy_vacation_map.png** - image of the map with markers to populate details; city, country, hotel name and current weather description.
+**WeatherPy_vacation_map.png** - image of the map with markers showing; city, country, hotel name and current weather description.
 
 
 #### *Folder 3* - [Vacation_Itinerary](https://github.com/JediMasterSlagle/World_Weather_Analysis/tree/main/Vacation_Itinerary)
 
-**Vacation_Itinerary.ipynb** - code used to filter and select 4 cities within specific country.  Using the Directions API, we were able to call on the route between each city, driving being the method of travel.<br>
-**WeatherPy_travel_map.png** - map of the 4 cities and the route.<br>
-**WeatherPy_travel_map_markers.png** - map of 4 cities and the hotels available within each city.  Pop markers included to populate; city, country, hotel name and current weather description.
+**Vacation_Itinerary.ipynb** - code used to filter and select cities.  Using the Directions API, we can easily see and plan travel paths and duration for each city with an overall view of the trip as a whole, driving being the method of travel.<br>
+**WeatherPy_travel_map.png** - map of the 4 cities with a planned out travel route.<br>
+**WeatherPy_travel_map_markers.png** - map of 4 cities and the hotels available within each city.  Pop markers included to show; city, country, hotel name and current weather description.
